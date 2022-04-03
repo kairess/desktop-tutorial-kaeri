@@ -4,6 +4,8 @@
 
 명강의에요!
 
+유익한 강의
+
 감사합니다.
 
 This is your README. READMEs are where you can communicate what your project is and how to use it.
